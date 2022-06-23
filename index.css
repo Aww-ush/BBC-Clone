@@ -1,0 +1,46 @@
+
+.body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 0%;
+    margin: 0% ;
+    width: 100%;
+}
+#menuTitle{
+    background-color: red;
+    color: white;
+    font-size: 30px;
+    padding-bottom: 0%;
+    margin-bottom: 0%;    
+}
+.navBar{
+    margin-top: 0%;
+    padding-top: 0%;
+    background-color: red;
+    color: white;
+    position: relative;
+    float: left; 
+    padding-right: 20px; 
+}
+.video{
+    clear: left;
+    position: relative;
+    margin-top: 50px;
+    width: 200px;
+
+}
+#vidDec{
+    position: relative;
+    float: right;
+    margin-top: 50px;
+    margin-right: 400px;
+    width: 200px;
+
+}
+#home{
+    margin-left: 10%;
+    margin-top: 0%;
+    padding-top: 0%;
+}
+#More{
+    margin-right: 10%;
+}
