@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica, Arial, sans-serif;
+
+}img{
+    max-width: 100%;
+    max-height: 100%;
+}
+div{
+    max-width: 100%;
+    max-height: 100%;
+}
+#logo{
+    margin-left: 0;
+    margin-top: 10px;
+    width: 100px;
+    position: relative;
+    float: left;
+}
+#topBar{
+    width: 1000px;
+    margin: 0 auto;
+    height: 40px;
+    margin-right: 8px;
+}
+
+.topbar-section{
+    float: left;
+    border-left: 1px grey solid;
+    height: 200px;
+    margin-left: 8px;
+    margin-top: 10px;
+}
+#signin-image{
+    height: 100px;
+    float: left;
+}
+#signin-text{
+    font-weight: bold;
+    font-size: 90%;
+    position: relative;
+    top: 19px;
+    margin-left: 10px;
+}
